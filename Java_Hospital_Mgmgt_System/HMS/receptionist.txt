@@ -1,0 +1,2 @@
+101,sumit,Sumit@123,Sumit,Receptionist
+102,rishabh,Rishabh@123,Rishabh,Receptionist
